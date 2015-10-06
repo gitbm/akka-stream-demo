@@ -14,7 +14,7 @@ OAuthConsumerSecret = "..."
 OAuthAccessToken = "..."
 OAuthAccessTokenSecret = "..."
 ```
-To run just use sbt:
+To run just use sbt (first time might take a while as it downloads dependencies):
 
 sbt run 
 
